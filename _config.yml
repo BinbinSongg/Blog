@@ -1,12 +1,12 @@
 # Site settings
-name: Never say die
+name: 人只要奋斗就会犯错
 email: chn.hermit@gmail.com
-author: Max Song
+author: Binbin Song
 url: http://binbinsong.com
 #resume_site: http://www.hifreud.com/Resume.io/
 github: https://github.com/BinbinSongg
 baseurl: ""
-description: Actually, less is more!
+description: Difficulty is temporary, but if I quit, it would be forever.
 meta_description: 康志华;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
 motto: It's our wits that make us men.
 banner: 学而不思则罔，思而不学则殆。
@@ -25,11 +25,11 @@ markdown: kramdown
 
 FB:
   comments :
-    provider : duoshuo
+    provider : binbinSong
     duoshuo:
-        short_name : luoyan35714
+        short_name : binbinSong
     disqus :
-        short_name : freudkang
+        short_name : binbinSong
     # facebook :
     #   appid : 123
     #   num_posts: 5
